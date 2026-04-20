@@ -123,15 +123,6 @@ http://localhost:3000
 > ⚠️ Never share your `.env` file or commit it to GitHub!
 
 ---
-
-## 📸 Screenshots
-
-| Dashboard | AI Assistant | Wardrobe |
-|-----------|-------------|----------|
-| Coming Soon | Coming Soon | Coming Soon |
-
----
-
 ## 👥 Team Members
 
 | Name | GitHub | Role | Key Contributions |
