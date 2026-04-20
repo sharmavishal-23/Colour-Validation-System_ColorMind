@@ -67,7 +67,7 @@ Choosing the right colors for outfits, interiors, and design projects requires e
 
 ## 📁 Project Structure
 
-
+```bash
 colormind/
 ├── app/
 │   ├── api/
@@ -86,9 +86,7 @@ colormind/
 ├── .env                          # Environment variables
 ├── next.config.mjs               # Next.js configuration
 └── package.json
-
-
----
+```
 
 ## 📦 Installation Guide
 
