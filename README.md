@@ -125,17 +125,17 @@ http://localhost:3000
 
 | Name | GitHub | Role | Key Contributions |
 |------|--------|------|-------------------|
-| 🎨 Aena Patel | [@aenapatel25](https://github.com/aenapatel25) | Frontend Developer | ✅ UI Components, ✅ Pages & Layout, ✅ Tailwind Styling, ✅ AI Assistant Integration |
-| ⚙️ Vishal Sharma | [@sharmavishal-23](https://github.com/sharmavishal-23) | Backend Developer | ✅ API Routes, ✅ Groq AI Integration, ✅ Color Logic, ✅ Project Architecture |
+| 🎨 Vishal Sharma | [@sharmavishal-23](https://github.com/sharmavishal-23) | Frontend Developer | ✅ UI Components, ✅ Pages & Layout, ✅ Tailwind Styling, ✅ AI Assistant Integration |
+| ⚙️ Aena Patel | [@aenapatel25](https://github.com/aenapatel25) | Backend Developer | ✅ API Routes, ✅ Groq AI Integration, ✅ Color Logic, ✅ Project Architecture |
 
-### 🎨 Aena Patel – Frontend Developer
+### 🎨 Vishal Sharma – Frontend Developer
 - Built all frontend pages including Dashboard, Assistant, Wardrobe, and Palettes
 - Designed and implemented UI components with Tailwind CSS
 - Created responsive layouts for all screen sizes
 - Integrated AI chat interface with real-time streaming responses
 - Implemented color picker and palette display components
 
-### ⚙️ Vishal Sharma – Backend Developer
+### ⚙️ Aena Patel – Backend Developer
 - Built Next.js API routes for AI chat functionality
 - Integrated Groq AI API with llama-3.3-70b-versatile model
 - Implemented color validation and extraction logic
@@ -146,10 +146,10 @@ http://localhost:3000
 
 | Achievement | Lead | Impact |
 |-------------|------|--------|
-| Real-time AI responses | Vishal | Instant color advice |
-| Fully responsive UI | Aena | Works on all devices |
-| Free AI integration | Vishal | No cost for users |
-| Beautiful color UI | Aena | Great user experience |
+| Real-time AI responses | Aena | Instant color advice |
+| Fully responsive UI | Vishal | Works on all devices |
+| Free AI integration | Aena | No cost for users |
+| Beautiful color UI | Vishal | Great user experience |
 | Image color extraction | Both | Unique feature |
 
 ---
